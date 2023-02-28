@@ -1,6 +1,7 @@
 body
 {
-    color: #333;
+    background: #dbcfd7c2; 
+    color: #333c;
     text-align: center;
     font-family:"Candara"; 
     font-size: 24px;
@@ -24,6 +25,7 @@ body
 }
 #container
 {
+    background:white; 
     width:70%;
     padding:0;
     text-align:left;
@@ -37,4 +39,12 @@ body
 #post
 {
     padding:1em
+}
+
+#footer
+{
+    background: #594d7a7c;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
